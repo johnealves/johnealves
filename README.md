@@ -18,7 +18,7 @@ Skills:
 <a href="#">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
 </a>  
-<a href="https://www.linkedin.com/in/johne-alves/">
+<a href="#">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
 </a>
  
@@ -26,7 +26,7 @@ Skills:
 
 Contact:
 
-<a href="#">
+<a href="https://www.linkedin.com/in/johne-alves/">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
 </a>
 
