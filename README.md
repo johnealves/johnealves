@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="left">
+  <React>
+</p>
 
-<!--
-**johnealves/johnealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### my name is Johne
+#### I am full stack web development student 
 
-Here are some ideas to get you started:
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+<a href="#">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
+</a>  
+<a href="#">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
+</a>  
+<a href="#">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
+</a>  
+<a href="#">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
+</a>
+
+
+
+- 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johne-alves/)  
+
+
+
