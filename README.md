@@ -26,7 +26,7 @@ Skills:
 
 Contact:
 
-<a href="https://www.linkedin.com/in/johne-alves/">
+<a href="https://www.linkedin.com/in/johne-alves/" target="_blank">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
 </a>
 
