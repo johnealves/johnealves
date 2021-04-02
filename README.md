@@ -25,7 +25,6 @@ Contact:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnealves&layout=compact&show_icons=true&theme=radical)](https://github.com/johnealves/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnealves&repo=johnealves.github.io&show_icons=true&theme=radical)](https://github.com/johnealves/github-readme-stats)
 
 
 
