@@ -21,6 +21,18 @@ languages and tools:
 <a href="#">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
 </a>
+<a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top margin:6px 4px">
+</a>
+
+in development:
+
+<a href="#">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" style="vertical-align:top margin:6px 4px">
+</a> 
+<a href="#">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+</a> 
 
 
 Contact:
