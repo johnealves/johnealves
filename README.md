@@ -5,7 +5,7 @@
 ### Hi there 👋, my name is Johne
 #### I am full stack web development student 
 
-I am currently studying at trybe where I am developing my knowledge in JavaScript, React, Redux, Jest, Node.js and Python. [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnealves&layout=compact&show_icons=true&theme=radical)](https://github.com/johnealves/github-readme-stats)
+I am currently studying at trybe where I am developing my knowledge in JavaScript, React, Redux, Jest, Node.js and Python. [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnealves&show_icons=true&theme=radical)](https://github.com/johnealves/github-readme-stats) 
 
 languages and tools:
 
@@ -22,7 +22,6 @@ Contact:
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" target="_blank" alt="HTML" style="vertical-align:top margin:6px 4px">
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnealves&show_icons=true&theme=radical)](https://github.com/johnealves/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnealves&layout=compact&show_icons=true&theme=radical)](https://github.com/johnealves/github-readme-stats)
 
