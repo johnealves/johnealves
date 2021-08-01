@@ -2,7 +2,7 @@
 #### I am full stack web development student 🧑🏾‍🎓
 #### I am currently studying at trybe where I am developing my knowledge in JavaScript, React, Redux, Jest, Node.js and Python.
   
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/johnealves">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=johnealves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnealves&layout=compact&langs_count=7&theme=radical"/>
