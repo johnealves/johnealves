@@ -18,8 +18,7 @@
   <img align="center" alt="mongodb" height="40" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">&nbsp;
   <img align="center" alt="heroku" height="40" width="40" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor">&nbsp;
 </div>
-
-   
+  
 ##
    
 <div> 
