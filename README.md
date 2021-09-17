@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Johne
 #### I am full stack web development student 🧑🏾‍🎓
-#### I am currently studying at trybe where I am developing my knowledge in JavaScript, React, Redux, Jest, Node.js and Python.
+#### I am currently studying at trybe where I am developing my knowledge in JavaScript, React, Redux, Jest, Node.js Java and Python.
   
  <div style="display: inline_block">
   <a href="https://github.com/johnealves">
