@@ -19,6 +19,13 @@
   <img align="center" alt="heroku" height="40" width="40" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor">&nbsp;
 </div>
   
+<div style="display: inline_block"><br>
+  in development:<br><br>
+  <img align="center" alt="java" height="40" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=currentColor">&nbsp;   
+  <img align="center" alt="python" height="40" width="40" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">&nbsp;
+  <img align="center" alt="postgre" height="40" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=currentColor">&nbsp; 
+</div>
+  
 ##
    
 <div> 
