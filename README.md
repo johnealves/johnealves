@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Johne
 #### I am full stack web development 🧑🏾‍🎓
-#### I am currently studying at trybe where I am developing my knowledge in JavaScript, React, Redux, Jest, Node.js Java and Python.
+#### I'm a graduate in Economics with a passion for creating amazing user experiences as a web developer. I have over 1.5 years of experience in web development, primarily focusing on React and TypeScript. My skills include building modern, responsive, and high-performance web applications, along with a strong understanding of interface design principles and front-end development. I am committed to code quality, team collaboration, and continuous learning. I'm always seeking new challenges and opportunities to enhance my skills and contribute to successful projects.
   
  <div style="display: inline_block">
   <a href="https://github.com/johnealves">
